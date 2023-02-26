@@ -8,7 +8,7 @@ The problem statement is to come up with the driving factors (or driver variable
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Overall Apporach](#overall-approach)
+* [Overall Approach](#overall-approach)
 * [Conclusions](#conclusions)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -26,7 +26,7 @@ Lending Club Case Study.pdf : contains the summary of the analysis and conclusio
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Overall Apporach
+## Overall Approach
 
 The company has shared a data file which contains the performance data of the loans in past many years. As part of this case study:
 
