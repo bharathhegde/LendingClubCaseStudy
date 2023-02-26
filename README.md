@@ -30,7 +30,7 @@ Lending Club Case Study.pdf : contains the summary of the analysis and conclusio
 
 The company has shared a data file which contains the performance data of the loans in past many years. As part of this case study:
 
-•	Understand the structure of the data 
+•	Understand the structure of the data
 •	Clean the data
 •	Analyse and Visualise the data
 •	Conclusion: Suggest driving factors behind the loan default to the company
