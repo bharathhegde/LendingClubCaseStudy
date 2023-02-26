@@ -18,10 +18,13 @@ The problem statement is to come up with the driving factors (or driver variable
 This is a case study taken as part of Executive PG Programme in Machine Learning & AI - January 2023, offered by IIIT - Bangalore in association with Upgrad.
 
 Name: Bharat Hegde
+
 Email: bharathhegde2005@gmail.com
+
 26th Feb 2023
 
 Bharat Hegde.ipynb: Contains the Python code used for analysis
+
 Lending Club Case Study.pdf : contains the summary of the analysis and conclusions and recommendations
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -31,8 +34,11 @@ Lending Club Case Study.pdf : contains the summary of the analysis and conclusio
 The company has shared a data file which contains the performance data of the loans in past many years. As part of this case study:
 
 •	Understand the structure of the data
+
 •	Clean the data
+
 •	Analyse and Visualise the data
+
 •	Conclusion: Suggest driving factors behind the loan default to the company
 
 The python language is used for all above steps. The libraries used as numpy, panda, matplotlib and seaborn
